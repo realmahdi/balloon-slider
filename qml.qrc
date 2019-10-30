@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>BaloonSlider.qml</file>
+        <file>Resource/balloon.svg</file>
+    </qresource>
+</RCC>
